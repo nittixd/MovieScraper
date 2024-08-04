@@ -12,4 +12,4 @@ This project is particularly useful for anyone looking to aggregate movie data f
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/MovieScraper.git
+   git clone https://github.com/nittixd/MovieScraper.git
